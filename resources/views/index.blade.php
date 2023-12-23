@@ -10,7 +10,7 @@
         <div class="row no-gutters slider-text justify-content-center align-items-center">
             <div class="col-lg-9 col-md-5 ftco-animate d-flex align-items-end">
                 <div class="text text-center w-101">
-                    <h1 class="mb-4" color="white">CTUMP<br>Trung tâm Ngoại Ngữ & Tin học</h1>
+{{--                    <h1 class="mb-4" color="white">CTUMP<br>Trung tâm Ngoại Ngữ & Tin học</h1>--}}
 {{--                    <p><a href="#" class="btn btn-primary py-3 px-4">Tìm kiếm </a></p>--}}
                 </div>
             </div>
@@ -30,7 +30,7 @@
             <div class="col-lg-12">
                 <div class="form-group">
                     <h2>Nhập từ khóa để tìm để tìm kiếm</h2>
-                    <input type="text" name="country" id="country" placeholder="Enter country name" class="form-control">
+                    <input type="text" name="country" id="country" placeholder="Nhập và khóa học bạn cần tìm" class="form-control">
                 </div>
                 <div id="country_list"></div>
             </div>
